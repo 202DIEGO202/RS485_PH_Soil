@@ -1,1 +1,2 @@
-Hola
+Este codigo permite leer el valor del sensor PH mediante una comunicacion RS485 y lo almacena en la memoria Flash del micro controlador esp32
+ademas puede leer dos sensores de PH mediante dos RS485 debido a efectos practicos.
